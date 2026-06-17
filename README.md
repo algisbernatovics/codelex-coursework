@@ -1,22 +1,32 @@
 # Codelex Coursework
 
-A collection of PHP coursework exercises, examples, and API practice from the Codelex learning path.
+An archive of PHP coursework exercises, examples, and API practice from the Codelex learning path.
 
-## Overview
+## Learning Goal
 
-A collection of PHP coursework exercises, examples, and API practice from the Codelex learning path.
+Document progression through PHP fundamentals: variables, arrays, objects, functions, loops, CLI scripts, and API-oriented practice.
 
-## Features
+## What It Contains
 
-- Organized by syllabus topics such as variables, arrays, objects, functions, loops, and APIs.
-- Includes standalone PHP scripts for focused language practice.
-- Contains examples and additional tasks outside the main syllabus folders.
+- Standalone PHP exercises grouped by syllabus topic.
+- Small examples for language features and standard-library usage.
+- API-related practice and additional exercises outside the main syllabus folders.
 
 ## Tech Stack
 
 - PHP
 - CLI scripts
 - Coursework exercises
+
+## Run
+
+Run individual PHP exercises directly. Example:
+
+```bash
+php php-syllabus-main/exercises/05-functions/1.php
+```
+
+Some exercises expect input in the terminal.
 
 ## Project Structure
 
@@ -25,21 +35,6 @@ A collection of PHP coursework exercises, examples, and API practice from the Co
 - `api/` - API-related practice
 - `others/` - additional exercises
 
-## Getting Started
+## License
 
-Run individual PHP exercises directly, for example:
-
-```bash
-php php-syllabus-main/exercises/05-functions/1.php
-```
-
-Some exercises may require input in the terminal.
-
-## Portfolio Notes
-
-- Documents learning progress across core PHP topics.
-- Useful as a historical archive of fundamentals practice.
-
-## Status
-
-Portfolio/coursework archive.
+MIT License. See [LICENSE](./LICENSE). Course prompts may belong to their original authors.
